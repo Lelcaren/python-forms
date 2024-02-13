@@ -26,16 +26,16 @@ Output:
 
     Output:
 
-        Sum of 15 and 12 is 27
+    Sum of 15 and 12 is 27
           
-          Add Two Numbers in Python Using Function
-          This program show adding two numbers in python using function.         We can define a function that accepts two integers and returns         their sum.
-
-                                                                            #To define a function that take two integers
-                                                                            #and return the sum of those two numbers
-                                                                            def add(a,b):
-                                                                                return a+b
-                                                                            #initializing the variables
+    Add Two Numbers in Python Using Function
+    This program show adding two numbers in python using function.        
+    We can define a function that accepts two integers and returns their sum.
+    #To define a function that take two integers
+     #and return the sum of those two numbers                                                                
+     def add(a,b):
+    return a+b
+      #initializing the variables
 
     num1 = 10
     num2 = 5
@@ -85,13 +85,13 @@ Output:
             iAdd Two7
               Add Two Numbers 
               Add Two Numbers in Python Using Function
-              This program show adding two numbers in python using function.         We can define a function that accepts two integers and returns         their sum.
-
-                                                                                #To define a function that take two integers
-                                                                                #and return the sum of those two numbers
-                                                                                def add(a,b):
-                                                                                    return a+b
-                                                                                #initializing the variables
+              This program show adding two numbers in python using function.        
+              We can define a function that accepts two integers and returns their sum.
+              #To define a function that take two integers
+             #and return the sum of those two numbers
+             def add(a,b):
+             return a+b
+             #initializing the variables
 
         num1 = 10
         num2 = 5
